@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70514295042",
+    "project_id": "chooo-chooo-mcpe-bangsin",
+    "storage_bucket": "chooo-chooo-mcpe-bangsin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70514295042:android:0e636e51d2d3d46036021b",
+        "android_client_info": {
+          "package_name": "com.choochoo.charles.modmcpe.bangsindev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70514295042-u1go7njif0v3peh6ck8t1pkooqi2vhj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHNuhb267IJyKdOqjF0hZ09oLkbRpxpDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70514295042-u1go7njif0v3peh6ck8t1pkooqi2vhj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
